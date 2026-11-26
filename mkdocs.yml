@@ -1,0 +1,12 @@
+site_name: DevOps Operations Handbook
+site_description: Учебная документация по проверке и публикации изменений
+repo_name: parad1ze/devops-docs
+repo_url: https://github.com/parad1ze/devops-docs
+site_url: https://parad1ze.github.io/devops-docs/
+theme:
+  name: mkdocs
+  locale: ru
+nav:
+  - Главная: index.md
+  - Эксплуатация: runbook.md
+  - Журнал инцидентов: incidents.md
